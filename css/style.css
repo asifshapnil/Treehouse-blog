@@ -1,0 +1,98 @@
+
+/*navbar*/
+.navbar{
+  background-color: #fefefe;
+}
+.navbar-header{
+  font-family: 'Lobster Two', cursive;
+}
+.navbar-header>a{
+  color: #3AC162;
+}
+.navbar-header>a:hover{
+  text-decoration: none;
+  opacity: 0.82;
+}
+.navbar-default .navbar-nav>li>a {
+  font-family: 'Roboto Slab', serif;
+}
+/*navbar*/
+.text>h1{
+  margin: 0 auto;
+  margin-top: 200px;
+  width: 700px;
+  color: #fff;
+  font-family: 'Roboto Slab', serif;
+}
+.button{
+  padding: 10px;
+  margin-top: 20px;
+  border: 2px solid #fefefe;
+  border-radius: 10px;
+  color: #fefefe;
+  font-family: 'Roboto Slab', serif;
+}
+.button:hover{
+  color: #3AC162;
+  background: #fefefe;
+}
+
+.post{
+padding: 15px;
+
+
+}
+.post>a{
+  text-decoration: none;
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 15px;
+}
+.post>a:hover{
+  text-decoration: none;
+font-family: 'Arvo', serif;
+}
+.panel {
+  height: 600px;
+  width: 300px;
+}
+.catagory .cat{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.stay{
+  margin: 0 auto;
+  margin-top: 150px;
+  width: 300px;
+  height: 300px;
+  font-family: 'Roboto Slab', serif;
+}
+.stayone{
+   background: green;
+   margin: 0 auto;
+   margin-top: 150px;
+   width: 300px;
+   height: 300px;
+   font-family: 'Roboto Slab', serif;
+}
+
+.submit{
+  background: #3AC162;
+  color: #fefefe;
+}
+.submit:hover{
+  opacity: 0.85;
+  color: #fff;
+
+}
+.panel .panel-heading:hover{
+  opacity: 0.8;
+}
+.log{
+margin-top: 200px;
+  margin: 0 auto;
+}
+.stayone{
+
+}

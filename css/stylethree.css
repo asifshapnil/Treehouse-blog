@@ -1,0 +1,185 @@
+
+/*navbar*/
+.navbar{
+  background-color: #fefefe;
+  padding: 20px;
+}
+.navbar-header{
+  font-family: 'Lobster Two', cursive;
+}
+.navbar-header>a{
+  color: #3AC162;
+}
+.navbar-header>a:hover{
+  text-decoration: none;
+  opacity: 0.82;
+}
+.navbar-default .navbar-nav>li>a {
+  font-family: 'Roboto Slab', serif;
+}
+/*navbar*/
+
+
+
+
+.text>h1{
+  margin: 0 auto;
+  margin-top: 200px;
+  width: 700px;
+  color: #fff;
+  font-family: 'Roboto Slab', serif;
+}
+.button{
+  width: 200px;
+  padding: 10px;
+  margin-top: 20px;
+  border: 2px solid #fefefe;
+  border-radius: 10px;
+  color: #fefefe;
+  font-family: 'Roboto Slab', serif;
+}
+.button:hover{
+  color: #3AC162;
+  background: #fefefe;
+}
+
+.post{
+
+margin-top: 55px;
+
+}
+.post>a{
+  text-decoration: none;
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 15px;
+}
+.recent>a{
+  text-decoration: none;
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+}
+.style{
+  border-right: 1px solid #d3d3d3;
+  border-left: 1px solid #d3d3d3;
+  padding: 10px;
+
+}
+.post>a:hover{
+  text-decoration: none;
+font-family: 'Arvo', serif;
+}
+
+.catagory .cat{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.stay{
+  margin: 0 auto;
+  margin-top: 150px;
+  width: 300px;
+  height: 300px;
+  font-family: 'Roboto Slab', serif;
+}
+.stayone{
+
+   margin: 0 auto;
+   margin-top: 150px;
+   width: 300px;
+   height: 300px;
+   font-family: 'Roboto Slab', serif;
+}
+
+.submit{
+  background: #3AC162;
+  color: #fefefe;
+}
+.submit:hover{
+  opacity: 0.85;
+  color: #fff;
+
+}
+.post-panel {
+  height: 600px;
+
+}
+.panel .panel-heading:hover{
+  opacity: 0.8;
+}
+.log{
+  margin: 0 auto;
+  margin-top: 140px;
+  width: 900px;
+  height: 300px;
+  font-family: 'Roboto Slab', serif;
+}
+.sign{
+  padding-left: 25px;
+  padding-right: 25px;
+
+}
+.link{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  list-style-type: none;
+  float: left;
+  background-color: #969696;
+
+}
+.link>a{
+  color: #555;
+}
+.link:hover{
+  background-color: #3AC162;
+  color: #fff;
+}
+.ul{
+  margin-left: 60px;
+  margin-top: 15px;
+}
+.error{
+  color: red;
+}
+.success{
+  color: #3AC162;
+}
+.navbar-nav .signout{
+  font-family: 'Roboto Slab', serif;
+  color: #3AC162;
+}
+.add{
+  margin: 0 auto;
+  width: 600px;
+}
+.user{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.read{
+  margin: 0 auto;
+  width: 600px;
+}
+
+.catnav{
+  margin-left: 400px;
+}
+.panel{
+  overflow: hidden;
+}
+
+.title{
+  border-bottom: 1px solid;
+}
+
+.index{
+  margin-top: -100px;
+}
+
+.propic{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
